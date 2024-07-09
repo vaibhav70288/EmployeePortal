@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|c:\\users\\yogesh holpade\\source\\repos\\employeeportal\\employeeportal\\views\\employee\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\employee\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\dbscripts\\dbinitialize.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\dbscripts\\dbinitialize.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\dataaccesslayer\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\dataaccesslayer\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\scripts\\employee\\upsert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\scripts\\employee\\upsert.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\employeeportal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C299EA-5C3F-4A59-BB07-1D8898BC9ED0}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitialize.sql ",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\DbScripts\\DbInitialize.sql",
+              "RelativeDocumentMoniker": "EmployeePortal\\DbScripts\\DbInitialize.sql",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\DbScripts\\DbInitialize.sql",
+              "RelativeToolTip": "EmployeePortal\\DbScripts\\DbInitialize.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-09T11:31:16.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeePortal\\Models\\Employee.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:31:59.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Employee\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "EmployeePortal\\Views\\Employee\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Employee\\Upsert.cshtml",
+              "RelativeToolTip": "EmployeePortal\\Views\\Employee\\Upsert.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T14:51:15.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:40:40.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\DataAccessLayer\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\DataAccessLayer\\EmployeeDAL.cs",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\DataAccessLayer\\EmployeeDAL.cs",
+              "RelativeToolTip": "EmployeePortal\\DataAccessLayer\\EmployeeDAL.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:06:42.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Content\\Site.css",
+              "RelativeDocumentMoniker": "EmployeePortal\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Content\\Site.css",
+              "RelativeToolTip": "EmployeePortal\\Content\\Site.css",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-08T15:23:46.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "EmployeePortal\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "EmployeePortal\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:42:42.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "EmployeePortal\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "EmployeePortal\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:41:17.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeePortal\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeePortal\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T14:33:05.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Web.config",
+              "RelativeDocumentMoniker": "EmployeePortal\\Web.config",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Web.config",
+              "RelativeToolTip": "EmployeePortal\\Web.config",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T12:16:07.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Upsert.js",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Scripts\\Employee\\Upsert.js",
+              "RelativeDocumentMoniker": "EmployeePortal\\Scripts\\Employee\\Upsert.js",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Scripts\\Employee\\Upsert.js",
+              "RelativeToolTip": "EmployeePortal\\Scripts\\Employee\\Upsert.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T05:46:35.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeePortal\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:26:00.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeePortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeePortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T05:50:32.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "EmployeePortal\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:25:15.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "EmployeePortal\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:54:34.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeePortal\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "EmployeePortal\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T06:16:11.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EmployeePortal\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Yogesh Holpade\\source\\repos\\EmployeePortal\\EmployeePortal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EmployeePortal\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T14:34:53.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
