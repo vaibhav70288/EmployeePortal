@@ -1,11 +1,9 @@
 ﻿
 var deleteModal = new bootstrap.Modal(document.getElementById('commonPopup'));
-function isNumberKey(evt) {
-    var charCode = (evt.which) ? evt.which : evt.keyCode;
-    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
-        return false;
-    }
-    return true;
+function isNumberKey(e) {
+    if (e.keyCode >= 48 && e.keyCode <= 57)
+        return true;
+    return false;
 }
 function openDeletePopup(title, actionText, cancleActionText, empId) {
     $('#commonPopup .modal-body .modal-body-content').hide();
