@@ -1,0 +1,48 @@
+﻿/* Set padding to keep content from hitting the edges */
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+/*input,
+select,
+textarea {
+    max-width: 280px;
+}*/
+.w-35 {
+    width:35%;
+}
+.reg-form {
+    box-shadow: 0 0 10px #0000004d;
+}
+.text-elipsis {
+    text-overflow:ellipsis;
+    display:inline-block;
+    overflow:hidden;
+    max-width:150px;
+}
+.table-scroll {
+    overflow: auto;
+    height:auto;
+    max-height:350px;
+    text-wrap: nowrap;
+}
+.table .col-width-1 {
+    width: 90px; /* Set width for column 1 */
+}
+
+.table .col-width-2 {
+    width: 180px; /* Set width for column 2 */
+}
+.table .col-width-3 {
+    width: 270px; /* Set width for column 2 */
+}

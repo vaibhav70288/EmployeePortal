@@ -1,0 +1,75 @@
+﻿@model List<EmployeePortal.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <div class="row mb-2">
+        <div class="col-6">
+            Employees List
+        </div>
+        <div class="col-6">
+            @Html.ActionLink("Add Employee", "Upsert",null, new { @class = "btn btn-primary float-end" })
+        </div>
+    </div>
+    <div class="table-scroll">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th class="col-width-1">Sr. No</th>
+
+                    <th class="col-width-2">Employee Name</th>
+
+                    <th class="col-width-3">Address</th>
+
+                    <th class="col-width-2">Contact Details</th>
+
+                    <th class="col-width-2">Date of Birth</th>
+
+                    <th class="col-width-2 text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (!Model.Any())
+                {
+                    <tr>
+                        <td colspan="6" class="text-center">No employees present. Please add employees.</td>
+                    </tr>
+                }
+                else
+                {
+                        int count = 0;
+                    foreach (var item in Model)
+                    {
+                        count++;
+                        <tr>
+                            <td class="col-width-1">@count</td>
+
+                            <td class="col-width-2">
+                                <div class="text-elipsis" title="@item.Name">@item.Name</div>
+                            </td>
+
+                            <td class="col-width-3">
+                                <div class="text-elipsis" title="@item.Address">@item.Address</div>
+                            </td>
+
+                            <td class="col-width-2">@item.Mobile</td>
+
+                            <td class="col-width-2">@item.DOB.ToString("dd-MM-yyyy")</td>
+
+                            <td class="col-width-2">
+                                <a href="/employee/upsert?id=@item.EmployeeId" class="btn btn-warning mx-2">Edit</a>  
+
+                                <button type="button" class="btn btn-danger" id="deleteBtn" onclick="openDeletePopup('Warning', 'Yes', 'No', @item.EmployeeId);">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                }
+
+            </tbody>
+        </table>
+    </div>
+    
+</div>
+
