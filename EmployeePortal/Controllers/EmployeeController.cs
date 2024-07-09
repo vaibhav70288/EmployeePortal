@@ -40,10 +40,12 @@ namespace EmployeePortal.Controllers
                 if (emp.EmployeeId == 0 || emp.EmployeeId==null)
                 {
                     employeeDal.Add(emp);
+                    TempData["SuccessMessage"] = "Employee added successfully!";
                 }
                 else
                 {
                     employeeDal.Update(emp);
+                    TempData["SuccessMessage"] = "Employee updated successfully!";
                 }
             }
             return RedirectToAction("Index");

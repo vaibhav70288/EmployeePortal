@@ -39,7 +39,7 @@
                 }
                 else
                 {
-                        int count = 0;
+                    int count = 0;
                     foreach (var item in Model)
                     {
                         count++;
@@ -59,7 +59,7 @@
                             <td class="col-width-2">@item.DOB.ToString("dd-MM-yyyy")</td>
 
                             <td class="col-width-2">
-                                <a href="/employee/upsert?id=@item.EmployeeId" class="btn btn-warning mx-2">Edit</a>  
+                                <a href="/employee/upsert?id=@item.EmployeeId" class="btn btn-warning mx-2">Edit</a>
 
                                 <button type="button" class="btn btn-danger" id="deleteBtn" onclick="openDeletePopup('Warning', 'Yes', 'No', @item.EmployeeId);">Delete</button>
                             </td>
@@ -70,6 +70,15 @@
             </tbody>
         </table>
     </div>
-    
+
 </div>
+@section scripts {
+    <script type="text/javascript">
+        debugger;
+        var successMessage = @Html.Raw(Json.Encode(TempData["SuccessMessage"]));
+        if (successMessage) {
+            showToast('Success', successMessage);
+        }
+    </script>
+}
 

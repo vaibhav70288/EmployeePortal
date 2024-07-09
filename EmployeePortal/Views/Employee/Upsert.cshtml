@@ -22,7 +22,7 @@
                     <div class="form-group">
                         @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "form-label" })
                         <span class="text-danger">*</span>
-                        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control",id="nameInput", @onkeypress = "return isTextKey(event)" } })
                         @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
                     </div>
                 </div>
